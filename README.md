@@ -1,7 +1,8 @@
 # New Features!
 
-  - Administrator panel which controls orders(their status), adds and removes products / categories
-  - Full ordering process (adding products to cartt-> entering the delivery address and choosing the delivery method -> confirming the order. 
+- Administrator panel which controls orders(their status), adds and removes products / categories
+- Full ordering process (adding products to cartt-> entering the delivery address and choosing the delivery method -> confirming the order.                                        
+
 
 
 
