@@ -1,24 +1,21 @@
-# README
+# Shop on rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Shop based on Rails. In this case we have some features like: 
+-administrator panel which controls orders(their status), adds and removes products / categories
+-full ordering process (adding products to cartt-> entering the delivery address and choosing the delivery method -> confirming the order. 
+-layout created by Bootstrap 
+-script that generates random products and categories into the database
 
-Things you may want to cover:
+Gem used:
 
-* Ruby version
+Bootstrap
+Faker 
+Statesman
+Ransack
+Letter_oppener 
+Carrierwave
+Kaminari 
+Simple_form 
+Mini_magick
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Technologies: HTML5, CSS,  JS, RUBY, ROR, BOOTSTRAP 
