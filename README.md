@@ -18,4 +18,4 @@ Kaminari
 Simple_form 
 Mini_magick
 
-Technologies: HTML5, CSS,  JS, RUBY, ROR, BOOTSTRAP 
+Technologies: fHTML5, CSS,  JS, RUBY, ROR, BOOTSTRAP 
