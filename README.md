@@ -1,7 +1,12 @@
-# New Features!
+# Shop on rails 
 
-- Administrator panel which controls orders(their status), adds and removes products / categories
-- Full ordering process (adding products to cartt-> entering the delivery address and choosing the delivery method -> confirming the order.                                        
+
+### Features!
+
+- Administrator panel which controls orders(their status), adds and removes products / categories.
+- Full ordering process (adding products to cartt, entering the delivery address and choosing the delivery method, confirming the order.                                        
+- Layout based on Bootstrap.
+- Script that generates random products and categories into the database.
 
 
 
